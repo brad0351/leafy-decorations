@@ -2,8 +2,13 @@ html {
   font-family: Lora, serif;
 }
 
-.masthead {
 
+
+.masthead {
+  background: url("../images/leaf-bg.svg") left top 64px auto;
+  background-color: #588477;
+  border-top: 3px solid #2d5a4d;
+  border-bottom: 3px solid #2d5a4d;
 }
 
 .logo {
